@@ -1,0 +1,16 @@
+{
+    "name": "laheseb/composer-tp",
+    "description": "Small projet to learn the composer tool",
+    "type": "projet",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "laheseb",
+            "email": "seb.laheyne@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "monolog/monolog": "^2.3"
+    }
+}
